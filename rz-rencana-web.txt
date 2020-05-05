@@ -5,4 +5,6 @@ Rencana Web RZ
 - Web LTMI
   * Web profile dan database anggota
 - Web Iyale
+ * Web profile
 - Web Corona
+- Web toko online
