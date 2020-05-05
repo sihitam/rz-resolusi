@@ -1,5 +1,7 @@
 Rencana Web RZ
 
 - Web AMKS PANTURA
+  * Web profile dan pendaftaran online
 - Web LTMI
+  * Web profile dan database anggota
 - Web Iyale
